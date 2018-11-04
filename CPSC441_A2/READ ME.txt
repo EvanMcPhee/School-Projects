@@ -1,0 +1,4 @@
+CPSC 441 assignment 2, Fall 2018
+The objective of this assignment was to create a client/server in c++, where a client can send a string 
+to the server for encoding and another client can then decode the message. The server encodes using some 
+basic hash functions chosen before running and then represents the words of the string as hex numbers.

@@ -1,0 +1,19 @@
+Completed Bonus Asignment
+
+To compile and run Binary Search Tree,
+
+Use command "javac Assign3.java"
+
+Execute using "java Assign3 inputfile DepthFirstOutputfile BreadthFirstOutputfile"
+
+Note: input file must be in the same directory that Assign3 is executed in
+
+
+
+(Bonus) To compile and run AVL Tree,
+
+Use command "javac Assign3b.java"
+
+Execute using "java Assign3b inputfile DepthFirstOutfile BreadthFirstOutfile"
+
+Note: AVL tree only handles insertions to the tree, not deletion
